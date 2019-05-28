@@ -1,0 +1,33 @@
+{
+  "name": "await-to-all",
+  "version": "1.0.0",
+  "description": "Promise.all wrapper for easier error handling when using async/await",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.10.2"
+  },
+  "scripts": {
+    "test": "node index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neosiae/await-to-all.git"
+  },
+  "keywords": [
+    "promise",
+    "all",
+    "async",
+    "await",
+    "to",
+    "wrapper",
+    "error",
+    "handling"
+  ],
+  "author": "Denis Kotlica <neosiae@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neosiae/await-to-all/issues"
+  },
+  "homepage": "https://github.com/neosiae/await-to-all#readme"
+}
